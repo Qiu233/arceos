@@ -1,2 +1,5 @@
 [profile.release]
 lto = true
+
+[build]
+target = "riscv64gc-unknown-none-elf"
